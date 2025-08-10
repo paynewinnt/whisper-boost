@@ -1,0 +1,12 @@
+# 核心依赖
+torch>=2.0.0
+torchvision
+torchaudio
+transformers>=4.25.0
+gradio>=4.0.0
+requests>=2.25.0
+
+# 系统依赖
+accelerate
+datasets
+librosa
